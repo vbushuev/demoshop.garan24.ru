@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "151.248.117.239",
+  "port": "22",
+  "target": "/var/www/u0173919/data/www/demoshop.garan24.ru",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "pittsb",
+  "password": "_suck$04",
+  "watch": [],
+  "transport": "scp"
+}

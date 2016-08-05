@@ -1,0 +1,19 @@
+remote:
+  host: "151.248.117.239:22"
+  user: "pittsb"
+  path: "/var/www/u0173919/data/www/demoshop.garan24.ru"
+behaviour:
+  uploadOnSave: true
+  syncDownOnOpen: true
+  forgetConsole: false
+  autoHideConsole: true
+  alwaysSyncAll: false
+option:
+  deleteFiles: false
+  exclude: [
+    ".sync-config.cson"
+    ".git"
+    "node_modules"
+    "tmp"
+    "vendor"
+  ]
